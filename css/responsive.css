@@ -1,0 +1,943 @@
+@media (max-width: 1800px) {
+  .wrapper {
+    max-width: 1200px; }
+
+  .invest_in_sec1 .left_box {
+    padding-left: 140px; }
+
+  .left_no {
+    left: calc(50% - 584px); }
+
+  .invest_in_sec1 .video_area {
+    right: calc(50% - 586px); }
+
+  .invest_in_sec1 .video_area {
+    max-width: 600px;
+    top: 85px; }
+
+  .invest_in_sec1 h1 {
+    font-size: 50px;
+    max-width: 460px; }
+
+  .invest_in_sec1 p {
+    font-size: 20px;
+    max-width: 350px; }
+
+  .invest_in_sec1 .blue_box {
+    left: calc(50% - 2210px); }
+
+  .invest_in_sec1 {
+    min-height: 715px; }
+
+  .invest_in_sec1 .video_area .videobg .phone_video_img1 {
+    min-height: 100%;
+    max-height: 100%; }
+
+  .invest_in_sec1 .video_area .videobg {
+    height: 334px;
+    min-height: 334px; }
+
+  .vide_down_content .l h3 {
+    font-size: 38px; }
+
+  .vide_down_content .l {
+    max-width: 240px;
+    min-width: 240px; }
+
+  .vide_down_content {
+    padding: 15px 15px; }
+
+  .vide_down_content .l .ALMOSTFUNDED .reserved {
+    font-size: 12px;
+    padding-top: 3px; }
+
+  .vide_down_content .l .ALMOSTFUNDED .almf {
+    font-size: 12px; }
+
+  .why_defi {
+    padding-top: 150px; }
+
+  .invest_in_aurox .box .invest_now a {
+    font-size: 18px; }
+
+  .invest_in_aurox .box .l h1 {
+    font-size: 42px; }
+
+  .join_the_discussion h1, .faq h1, .the_team h1, .our_story h1, .solution h1, .challenge .defi_text h1, .explosive_market h1, .why_defi h1, .sucks_software h1 {
+    font-size: 57px; }
+
+  .challenge .challange_slider .item {
+    max-width: 280px; }
+
+  .challenge .challange_slider .item .slide1_desktop_img {
+    width: 278px; }
+
+  .challenge .challange_slider .item .slide3_img {
+    left: -35px;
+    bottom: 240px;
+    width: 274px !important; }
+
+  .challenge .challange_slider .item:nth-child(3) {
+    width: 208.33px !important; }
+
+  .challenge .challange_slider .item .slider_logo {
+    bottom: 140px; }
+
+  .challenge .challange_slider .item .right_side_slide {
+    width: 469px;
+    left: 280px; }
+
+  .challenge .defi_text {
+    padding: 100px 279px;
+    padding-bottom: 0; }
+
+  .solution .custom_cols .c_row:last-child {
+    margin-bottom: 0; }
+
+  .solution {
+    padding-bottom: 100px; }
+
+  .our_story {
+    padding-top: 100px; }
+
+  .our_story .boxes p {
+    font-size: 20px;
+    margin-top: 30px;
+    line-height: 140%; }
+
+  .our_story .boxes .box {
+    margin-bottom: 100px; }
+
+  .our_story .boxes:before {
+    bottom: 100px; }
+
+  nav ul li {
+    margin-left: 10px; }
+
+  nav ul li a {
+    font-size: 12px; }
+
+  nav ul .right_btn {
+    margin-left: 10px; }
+
+  .sucks_software img {
+    max-width: 1100px; } }
+@media (max-width: 1200px) {
+  .wrapper {
+    max-width: 900px; }
+
+  .invest_in_sec1 .blue_box {
+    left: calc(50% - 2010px); }
+
+  .sucks_software img {
+    max-width: 820px; }
+
+  .wallet_img {
+    max-width: calc(100% - 30px) !important;
+    margin: auto !important; }
+
+  .left_no {
+    left: calc(50% - 434px); }
+
+  .invest_in_sec1 .video_area .videobg {
+    height: 350px;
+    min-height: 350px; }
+
+  .invest_in_sec1 .video_area {
+    max-width: 600px;
+    position: relative;
+    max-width: 630px;
+    left: unset;
+    right: unset;
+    margin: auto; }
+
+  .invest_in_sec1 .blue_box {
+    left: calc(50% - 2010px);
+    bottom: unset;
+    min-height: 810px; }
+
+  .invest_in_sec1 h1 {
+    font-size: 60px; }
+
+  .invest_in_sec1 p {
+    font-size: 23px;
+    max-width: 400px; }
+
+  .why_defi .content_wrap .two_side_box {
+    max-width: 430px; }
+
+  .join_the_discussion h1, .faq h1, .the_team h1, .our_story h1, .solution h1, .challenge .defi_text h1, .explosive_market h1, .why_defi h1, .sucks_software h1 {
+    font-size: 50px; }
+
+  .why_defi h1 {
+    max-width: 400px; }
+
+  .why_defi p {
+    max-width: 400px; }
+
+  .invest_in_aurox .box {
+    padding: 15px 30px; }
+
+  .invest_in_aurox .box .invest_now a {
+    font-size: 16px;
+    padding: 10px 25px; }
+
+  .invest_in_aurox .box .invest_now {
+    padding-right: 0; }
+
+  .invest_in_aurox .box .l {
+    max-width: 230px; }
+
+  .invest_in_aurox .box .m h2 {
+    margin-top: 3px; }
+
+  .explosive_market .tow_imgs {
+    margin-top: 70px; }
+
+  .challenge .challange_slider .item {
+    max-width: 240px; }
+
+  .challenge .challange_slider .item .slide1_desktop_img {
+    width: 238px; }
+
+  .challenge .challange_slider .item:nth-child(1) p {
+    padding-left: 25px; }
+
+  .challenge .challange_slider .item:nth-child(3) {
+    width: 188.33px !important; }
+
+  .challenge .challange_slider .item:nth-child(1) {
+    width: 201px !important; }
+
+  .challenge .challange_slider .item .right_side_slide {
+    width: 402px;
+    left: 240px; }
+
+  .challenge .challange_slider .item .slide3_img {
+    left: -27px;
+    bottom: 205px;
+    width: 236px !important; }
+
+  .challenge .challange_slider .item p {
+    bottom: 90px; }
+
+  .challenge .challange_slider .item .slider_logo {
+    bottom: 95px; }
+
+  .challenge .defi_text {
+    padding: 100px 195px 0; }
+
+  .solution .aurox_line ul li {
+    font-size: 16px;
+    margin-left: 20px; }
+
+  .solution .custom_cols .c_row .r, .solution .custom_cols .c_row .l {
+    max-width: calc(50% - 10px); }
+
+  .our_story .boxes h2 {
+    font-size: 60px; }
+
+  .our_story .two_boxes .bg_img .down_tit h3 {
+    font-size: 22px;
+    line-height: 120%; }
+
+  .our_story .two_boxes .bg_img .down_tit {
+    left: 25px;
+    right: 25px; }
+
+  .the_team .team_boxes .box h2 {
+    font-size: 26px; }
+
+  .the_team .team_boxes .box ul {
+    padding-left: 35px;
+    padding-right: 20px; }
+
+  .the_team .team_boxes .box ul li {
+    font-size: 16px;
+    line-height: 160%; }
+
+  footer .c_row .listonrightside {
+    padding-right: 0; }
+
+  footer .c_row .listonrightside ul {
+    width: unset;
+    margin-left: 50px; }
+
+  footer .downlinks .right_links {
+    padding-right: 0;
+    padding-top: 10px; }
+
+  footer .downlinks .right_links ul li {
+    margin-left: 15px; }
+
+  footer {
+    padding-top: 70px;
+    padding-bottom: 70px; }
+
+  nav {
+    position: fixed;
+    z-index: 999; }
+    nav img {
+      display: block; }
+
+  nav .formobile {
+    position: fixed;
+    left: 0;
+    top: 75px;
+    bottom: 0;
+    z-index: 999;
+    width: calc(50% - 450px + 250px);
+    min-width: 250px;
+    background: #051738;
+    text-align: right;
+    margin-left: -100%;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease; }
+
+  nav ul {
+    display: inline-block;
+    width: 220px;
+    text-align: left;
+    padding-left: 15px; }
+
+  nav ul li {
+    display: block;
+    margin: 0;
+    margin-bottom: 20px; }
+
+  nav .wrapper {
+    padding: 17.5px 15px; }
+
+  nav ul .right_btn {
+    margin: 0; }
+
+  nav ul .right_btn a {
+    display: inline-block;
+    padding: 3px 25px; }
+
+  nav .lines {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer; }
+    nav .lines .line {
+      height: 2px;
+      background: #fff;
+      width: 23px;
+      border-radius: 10px;
+      margin-top: 4px;
+      margin-bottom: 4px;
+      -webkit-transition: all .25s ease;
+      -moz-transition: all .25s ease;
+      -ms-transition: all .25s ease;
+      -o-transition: all .25s ease;
+      transition: all .25s ease; }
+
+  nav .for_mobile_quite {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 75px;
+    background: #000;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease; }
+
+  nav.nav_active .formobile {
+    margin-left: 0; }
+  nav.nav_active .for_mobile_quite {
+    visibility: visible;
+    opacity: 0.3; }
+
+  nav.nav_active .lines .line:nth-child(1) {
+    transform: rotate(50deg); }
+  nav.nav_active .lines .line:nth-child(2) {
+    transform: rotate(-50deg);
+    margin-top: -6px; }
+  nav.nav_active .lines .line:nth-child(3) {
+    transform: rotate(-50deg);
+    margin-top: -6px; }
+
+  body {
+    padding-top: 75px; } }
+@media (max-width: 900px) {
+  .wrapper {
+    max-width: 500px; }
+
+  .vide_down_content .invest_now a {
+    padding: 16px; }
+
+  .left_no {
+    display: none; }
+
+  .invest_in_sec1 .left_box {
+    padding-left: 0;
+    padding-top: 60px; }
+
+  .invest_in_sec1 .video_area .videobg {
+    height: 260px;
+    min-height: 260px; }
+
+  nav .formobile {
+    width: calc(50% - 250px + 250px); }
+
+  .invest_in_sec1 .blue_box {
+    left: calc(50% - 1914px); }
+
+  .invest_in_sec1 p {
+    margin-top: 30px; }
+
+  .watch_the_video a svg {
+    transform: rotate(90deg);
+    margin-left: 10px; }
+
+  .invest_in_sec1 .video_area {
+    margin-top: 50px;
+    top: unset; }
+
+  .invest_in_sec1 .video_area .videobg {
+    background: #142EBC; }
+
+  .invest_in_sec1 .video_area .videobg {
+    min-height: 170px;
+    overflow: hidden; }
+
+  .invest_in_sec1 .video_area .videobg .play_icon {
+    max-width: 45px; }
+
+  .vide_down_content .c_row {
+    display: block; }
+
+  .vide_down_content .l h3 {
+    font-size: 42px;
+    padding-bottom: 30px; }
+
+  .vide_down_content {
+    max-width: 300px;
+    margin: auto;
+    padding-top: 35px; }
+
+  .vide_down_content .l {
+    max-width: 270px; }
+
+  .vide_down_content .l .ALMOSTFUNDED .reserved {
+    position: absolute;
+    left: 0;
+    top: 81px;
+    font-size: 16px; }
+
+  .vide_down_content .l .ALMOSTFUNDED {
+    position: relative; }
+
+  .vide_down_content .m {
+    margin-top: 20px;
+    padding-right: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; }
+    .vide_down_content .m div {
+      width: calc(50% - 5px);
+      margin-bottom: 15px;
+      padding-left: 30px;
+      position: relative; }
+    .vide_down_content .m div:before {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      background: url(../img/check.svg);
+      width: 16px;
+      height: 14px;
+      background-size: 100%;
+      content: ''; }
+
+  .vide_down_content .m p {
+    margin-bottom: 0; }
+
+  .vide_down_content .invest_now {
+    padding-right: 0; }
+    .vide_down_content .invest_now a {
+      width: 100%;
+      text-align: center; }
+
+  .vide_down_content .video_logos div {
+    min-width: unset; }
+  .vide_down_content .video_logos div:first-child img {
+    width: 83px; }
+  .vide_down_content .video_logos div:last-child img {
+    width: 169px; }
+
+  .vide_down_content .down_p {
+    padding: 0;
+    display: block; }
+
+  .vide_down_content .down_p .links {
+    margin-top: 20px; }
+
+  .why_defi {
+    padding-top: 47px; }
+
+  .invest_in_aurox .box .l h1, .join_the_discussion h1, .faq h1, .the_team h1, .our_story h1, .solution h1, .challenge .defi_text h1, .explosive_market h1, .why_defi h1, .sucks_software h1 {
+    max-width: 100%;
+    font-size: 38px;
+    line-height: 105.5%; }
+
+  .why_defi p {
+    margin-top: 28px; }
+
+  .why_defi .content_wrap .two_side_box {
+    max-width: 430px;
+    position: relative;
+    top: unset;
+    left: unset;
+    right: unset;
+    margin: auto;
+    margin-top: 40px; }
+
+  .why_defi p, .explosive_market p, .sucks_software p {
+    max-width: 100%;
+    font-size: 20px;
+    line-height: 32px; }
+
+  .invest_in_aurox .box {
+    padding: 30px;
+    display: block; }
+
+  .invest_in_aurox .box .l {
+    max-width: 100%;
+    text-align: center; }
+
+  .invest_in_aurox .box .m {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px; }
+
+  .invest_in_aurox .box .m .line_s {
+    margin: auto; }
+
+  .invest_in_aurox .box .invest_now {
+    text-align: center; }
+    .invest_in_aurox .box .invest_now a {
+      padding: 25px 35px; }
+
+  .why_defi {
+    padding-bottom: 60px; }
+
+  .invest_in_aurox .box .m h3 {
+    margin-bottom: 15px; }
+
+  .explosive_market {
+    padding-top: 60px; }
+
+  .explosive_market .tow_imgs {
+    display: block;
+    margin-top: 40px; }
+    .explosive_market .tow_imgs div {
+      max-width: 100%; }
+    .explosive_market .tow_imgs p {
+      display: block;
+      margin-bottom: 40px; }
+
+  .sucks_software {
+    padding-top: 50px;
+    padding-bottom: 0; }
+
+  .sucks_software .scrollimg img {
+    width: 597px;
+    max-width: unset; }
+
+  .scrollimg {
+    max-width: 597px;
+    overflow: auto;
+    margin-left: 50%;
+    transform: translateX(-50%) !important;
+    width: 100%;
+    width: 597px; }
+    .scrollimg img {
+      display: block; }
+
+  .challenge {
+    padding-top: 100px;
+    background: #142EBC; }
+
+  .challenge {
+    padding-bottom: 78px; }
+
+  .challenge.challenge2 {
+    background: #051738; }
+
+  .challenge .defi_text {
+    padding: 0;
+    text-align: center;
+    padding-top: 78px;
+    padding-bottom: 78px; }
+
+  .challenge .defi_text p {
+    max-width: 100%; }
+
+  .challenge .challange_slider .item {
+    min-height: 330px; }
+
+  .challenge .challange_slider .item h2 {
+    padding-top: 15px; }
+
+  .challenge .challange_slider .item p {
+    bottom: 50px;
+    font-size: 17px; }
+
+  .challenge .challange_slider .item .location_pin {
+    margin-top: 48px;
+    max-width: 30px; }
+
+  .challenge .challange_slider .item h3 {
+    font-size: 16px;
+    margin-top: 9px;
+    max-width: 160px;
+    line-height: 120%; }
+
+  .challenge.challenge3 {
+    padding-bottom: 0; }
+
+  .challenge .challange_slider .item .slider_logo {
+    bottom: 55px;
+    max-width: 70px; }
+
+  .onlyphone {
+    display: block !important; }
+
+  .swipe_slider p {
+    font-family: 'Soleil';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 105.5%;
+    text-align: center;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    margin-top: 13px; }
+  .swipe_slider img {
+    display: block;
+    margin: auto;
+    animation: mymove 3s;
+    animation-iteration-count: infinite; }
+
+  @keyframes mymove {
+    0% {
+      transform: rotate(5deg); }
+    50% {
+      transform: rotate(-5deg); }
+    100% {
+      transform: rotate(5deg); } }
+  .challenge.challenge3 {
+    padding-top: 70px; }
+
+  .solution .solution_img {
+    padding-left: 15%; }
+
+  .solution h1 {
+    margin-top: -200px; }
+
+  .solution .aurox_line {
+    padding: 20px; }
+
+  .solution .aurox_line img {
+    margin: auto; }
+
+  .solution .aurox_line ul {
+    position: relative;
+    flex-wrap: wrap;
+    right: unset;
+    top: unset;
+    max-width: 330px;
+    margin: auto;
+    justify-content: center;
+    margin-top: 20px; }
+    .solution .aurox_line ul li {
+      width: calc(50% - 10px);
+      margin: 0;
+      text-align: left; }
+
+  .solution .aurox_line ul li img {
+    margin-left: 0; }
+
+  .solution .custom_cols .c_row {
+    display: block; }
+    .solution .custom_cols .c_row .l, .solution .custom_cols .c_row .r {
+      width: 100%;
+      max-width: 100%;
+      text-align: center; }
+      .solution .custom_cols .c_row .l p, .solution .custom_cols .c_row .r p {
+        text-align: center;
+        margin-bottom: 30px; }
+
+  .solution .custom_cols .c_row .r img {
+    max-width: 359px; }
+
+  .solution .custom_cols .c_row {
+    margin-bottom: 55px; }
+
+  .solution .custom_cols {
+    margin-top: 70px; }
+
+  .our_story .boxes .box h2 {
+    font-size: 40px;
+    line-height: 116.5%; }
+
+  .our_story .boxes .box {
+    padding-left: 130px; }
+
+  .our_story .boxes .box:after, .our_story .boxes:before {
+    left: 80px; }
+
+  .our_story h1 {
+    text-align: center;
+    padding: 0; }
+
+  .our_story .title {
+    text-align: center;
+    padding: 0;
+    padding-top: 50px; }
+
+  .our_story {
+    padding-top: 0; }
+
+  .our_story .boxes:before {
+    bottom: 0; }
+
+  .our_story .boxes .box:last-child:before {
+    position: absolute;
+    content: '';
+    width: 20px;
+    background: #142EBC;
+    left: 80px;
+    top: 78px;
+    bottom: 0; }
+
+  .our_story .boxes p {
+    margin-top: 0; }
+
+  .our_story .boxes h3 {
+    font-size: 20px;
+    line-height: 150%; }
+
+  .our_story .boxes p {
+    font-size: 16px; }
+
+  .our_story .two_boxes {
+    display: block;
+    margin-top: 50px; }
+
+  .our_story .two_boxes .box {
+    width: 100%; }
+
+  .our_story .two_boxes .bg_img {
+    margin-bottom: 26px; }
+
+  .the_team .team_boxes {
+    display: block;
+    margin-top: 0; }
+
+  .the_team .team_boxes .box {
+    border: 0;
+    width: 100%;
+    height: unset;
+    padding-top: 0;
+    min-height: unset;
+    margin-bottom: 60px; }
+
+  .the_team h1 {
+    margin-bottom: 30px; }
+
+  .faq {
+    padding-bottom: 50px; }
+
+  .join_the_discussion {
+    padding-top: 50px; }
+
+  .join_the_discussion img {
+    margin-top: 30px; }
+
+  .disclaimers {
+    padding-top: 50px; }
+
+  .disclaimers p {
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 34px; }
+
+  footer .c_row {
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 20px; }
+
+  footer .c_row .logo {
+    padding: 0; }
+    footer .c_row .logo img {
+      display: block;
+      margin: auto; }
+
+  footer .c_row .listonrightside {
+    justify-content: space-between;
+    margin-top: 30px; }
+    footer .c_row .listonrightside ul {
+      text-align: left;
+      margin: 0; }
+
+  footer .downlinks {
+    display: block; }
+
+  footer .downlinks .right_links ul li {
+    margin-left: 0;
+    margin-right: 10px; } }
+@media (max-width: 597px) {
+  .scrollimg {
+    width: 100%; }
+
+  .onlyphone2 {
+    display: block !important;
+    margin-top: 50px; } }
+@media (max-width: 500px) {
+  .invest_in_sec1 .video_area .videobg {
+    height: 0;
+    min-height: 0;
+    padding-bottom: 56% !important; } }
+@media (max-width: 480px) {
+  .invest_in_aurox .box .m h2 {
+    font-size: 36px; }
+
+  .solution .custom_cols .c_row .r img {
+    width: calc(100% + 30px);
+    margin-left: -15px;
+    max-width: calc(100% + 30px); }
+
+  .disclaimers p {
+    overflow: hidden; }
+
+  .vide_down_content .l h3 {
+    font-size: 40px; }
+
+  .invest_in_sec1 h1 {
+    font-size: 44px; }
+
+  .invest_in_sec1 p {
+    font-size: 18px; }
+
+  .invest_in_sec1 .blue_box {
+    min-height: 620px; }
+
+  .why_defi .content_wrap .two_side_box .row_c p {
+    font-size: 14px; }
+
+  .why_defi .content_wrap .two_side_box .row_c .sm {
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px; }
+
+  .why_defi .content_wrap .two_side_box .row_c {
+    margin-bottom: 30px; }
+
+  .why_defi p, .explosive_market p, .sucks_software p {
+    font-size: 18px;
+    line-height: 160%; }
+
+  .invest_in_aurox .box {
+    padding: 30px 15px; }
+
+  .scrollimg {
+    width: calc(100% + 30px);
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .challenge .challange_slider .item:nth-child(3), .challenge .challange_slider .item:nth-child(1), .challenge .challange_slider .item {
+    width: 240px !important;
+    max-width: 240px !important; }
+
+  .challenge .challange_slider .slick-list {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  .challenge .challange_slider .item:nth-child(1) p {
+    padding-left: 0; }
+
+  .challenge .challange_slider {
+    max-width: 240px;
+    margin: auto;
+    margin-top: 50px; }
+    .challenge .challange_slider .slick-track {
+      width: 2000px !important; }
+
+  .challenge .challange_slider .item .slide3_img {
+    left: -37px;
+    bottom: 188px;
+    width: 306px !important;
+    transform: rotate(4deg); }
+
+  .solution .aurox_line ul li {
+    width: 100%;
+    margin-bottom: 5px; }
+
+  .solution .aurox_line ul {
+    max-width: 140px; }
+
+  .our_story .two_boxes .box {
+    min-height: 389px; }
+
+  .our_story .two_boxes .bg_img .down_tit h3 {
+    margin-top: 15px; }
+
+  .our_story .two_boxes .bg_img .down_tit {
+    bottom: 20px; }
+
+  .our_story .two_boxes .box h2 {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    line-height: 30px; }
+
+  .our_story .two_boxes .box p {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    line-height: 30px; }
+
+  .the_team {
+    padding-top: 70px; }
+
+  footer .c_row .listonrightside {
+    flex-wrap: wrap; }
+    footer .c_row .listonrightside ul {
+      width: 50%; }
+
+  footer .c_row .listonrightside ul:last-child {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap; }
+    footer .c_row .listonrightside ul:last-child li {
+      width: 50%; }
+
+  footer .c_row .listonrightside ul a {
+    text-align: center; }
+
+  footer .downlinks .socmedia ul {
+    text-align: center; }
+
+  footer .downlinks .socmedia ul li {
+    margin-right: 5px;
+    margin-left: 5px; }
+
+  footer .downlinks .right_links ul {
+    text-align: center; }
+    footer .downlinks .right_links ul li {
+      margin-left: 5px;
+      margin-right: 5px; } }
+
+/*# sourceMappingURL=responsive.css.map */
